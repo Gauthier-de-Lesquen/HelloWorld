@@ -8,4 +8,4 @@
        PROCEDURE DIVISION.
            DISPLAY 'HELLO, WORLD!'.
 
-       STOP-RUN.
+       STOP RUN.
